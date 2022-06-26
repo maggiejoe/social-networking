@@ -5,7 +5,9 @@
 This challenge was to test my abilities with using a noSQL database such as MongoDB. I was given no starter code and created all of the schemas and routes to simulate a social networking program where friends and thoughts can be added, changed and deleted to a person's user profile. This was not a front end application and can be tested through Insomnia.
 
 ## Walkthrough Video
-[Check out my walkthrough videos here!](https://drive.google.com/file/d/1Fyb7PgvGOXvNmD3dANBOoLnaRzIwDk1F/view),(https://drive.google.com/file/d/1nR7SCm2xglKpAa80KrHlP60cmP8BXR9g/view)
+[Check out walkthrough video #1 here!](https://drive.google.com/file/d/1Fyb7PgvGOXvNmD3dANBOoLnaRzIwDk1F/view)
+
+[Check out walkthrough video #2 here!](https://drive.google.com/file/d/1nR7SCm2xglKpAa80KrHlP60cmP8BXR9g/view)
 
 ## Deployment Link
 [Check out my GitHub!](https://github.com/maggiejoe/social-networking.git)
